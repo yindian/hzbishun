@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-02-01
+# Date: 2021-02-13
 # Unicode Version: 13.0 (92,856 entries)
 #
 # Notes
@@ -13325,7 +13325,7 @@ U+818B	膋	^⿱𤇾月$(GHJKT)
 U+818C	膌	^⿰月脊$(GHKT)
 U+818D	膍	^⿰月𣬉$(GHKT)
 U+818E	膎	^⿰月奚$(GJKT)
-U+818F	膏	^⿳⿱亠口冖月$(GHJKT)	^⿱高月$(V)
+U+818F	膏	^⿳⿱亠口⿱冖口月$(GHJKT)	^⿱高月$(V)
 U+8190	膐	^⿱旅肉$(GJT)
 U+8191	膑	^⿰月宾$(G)
 U+8192	膒	^⿰月區$(GT)
