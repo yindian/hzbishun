@@ -1,7 +1,7 @@
 ﻿# List of CJK strokes in Unicode (U) and GF 2001-2001 (G)
 # vi: noet ts=14
 # Note:
-# 提捺 & 平捺 are grouped with 点 in GF 3003-1999, with 折 in GB/T 25741-2010
+# 提捺 & 横捺 are grouped with 点 in GF 3003-1999, with 折 in GB/T 25741-2010
 # 折 in 今(G) is 横折, in 今(U) is 横撇
 Index	Name (Alt)	Stroke	Radical	Ideograph	Sample
 1.0	横	㇐	⼀	一	丁 / 七
