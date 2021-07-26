@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-07-24
+# Date: 2021-07-26
 # Unicode Version: 13.0 (92,856 entries)
 #
 # NB Additions and changes for Unicode Version 14.0 (92,865 entries) have been added to the file as commented out lines
@@ -38262,7 +38262,7 @@ U+22905	𢤅	^⿱⿰歺帶心$(GT)
 U+22906	𢤆	^⿰忄厲$(GT)
 U+22907	𢤇	^⿰忄罵$(GT)
 U+22908	𢤈	^⿰忄𦎧$(GT)
-U+22909	𢤉	^⿱𥫗⿹？心$(GT)
+U+22909	𢤉	^⿱𥫗⿹⿻⿱{50}匚弓心$(G)	^⿱𥫗⿹𢏚心$(T)
 U+2290A	𢤊	^⿱適心$(GT)
 U+2290B	𢤋	^⿰忄⿱⿻土䀠八$(GT)
 U+2290C	𢤌	^⿱銽心$(GT)
@@ -62748,7 +62748,7 @@ U+288A7	𨢧	^⿰酉窑$(GT)
 U+288A8	𨢨	^⿰酉悤$(GT)
 U+288A9	𨢩	^⿰酉𬀷$(GT)
 U+288AA	𨢪	^⿰酉巢$(GT)
-U+288AB	𨢫	^⿰酉⿹⿻⿱{50}匚弓口$(GT)
+U+288AB	𨢫	^⿰酉⿹⿻⿱{50}匚弓口$(GT)	*U+288AB≡U+288CA
 U+288AC	𨢬	^⿰酉荼$(GT)
 U+288AD	𨢭	^⿰酉魚$(GT)
 U+288AE	𨢮	^⿱𥎿酉$(G)
@@ -62779,7 +62779,7 @@ U+288C6	𨣆	^⿰酉奠$(GT)
 U+288C7	𨣇	^⿰酉閒$(GT)
 U+288C8	𨣈	^⿰酉貴$(G)
 U+288C9	𨣉	^⿰酉間$(G)
-U+288CA	𨣊	^⿰酉𠷎$(G)
+U+288CA	𨣊	^⿰酉𠷎$(G)	*U+288CA≡U+288AB
 U+288CB	𨣋	^⿰酉㫺$(T)
 U+288CC	𨣌	^⿰酉𫟛$(G)
 U+288CD	𨣍	^⿰酉奢$(G)
