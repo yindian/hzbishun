@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-07-26
+# Date: 2021-07-29
 # Unicode Version: 13.0 (92,856 entries)
 #
 # NB Additions and changes for Unicode Version 14.0 (92,865 entries) have been added to the file as commented out lines
@@ -21656,7 +21656,7 @@ U+35EB	㗫	^⿰口祭$(GJT)
 U+35EC	㗬	^⿱𫩠多$(GKT)
 U+35ED	㗭	^⿰口悉$(GT)
 U+35EE	㗮	^⿰名庚$(K)
-U+35EF	㗯	^⿰者⿰口匕$(K)
+U+35EF	㗯	^⿱者⿰口匕$(K)
 U+35F0	㗰	^⿰口從$(GT)
 U+35F1	㗱	^⿰口集$(GHTV)
 U+35F2	㗲	^⿰口畫$(GHKT)
@@ -28434,7 +28434,7 @@ U+202A2	𠊢	^⿰亻𥤨$(GT)
 U+202A3	𠊣	^⿰亻⿱丑丑$(GT)
 U+202A4	𠊤	^⿰亻⿸虍人$(GT)
 U+202A5	𠊥	^⿰亻沝$(GT)
-U+202A6	𠊦	^⿰亻⿱巛正$(GT)
+U+202A6	𠊦	^⿰亻⿱巛𠂛$(G)	^⿰亻⿱巛正$(T)
 U+202A7	𠊧	^⿰亻並$(GT)
 U+202A8	𠊨	^⿰亻㢲$(GT)
 U+202A9	𠊩	^⿰亻孨$(GT)
@@ -30828,7 +30828,7 @@ U+20BFC	𠯼	^⿰口仃$(V)
 U+20BFD	𠯽	^⿰口止$(V)
 U+20BFE	𠯾	^⿰口仇$(V)
 U+20BFF	𠯿	^⿰口六$(HV)
-U+20C00	𠰀	^⿰口⿻弓丨$(V)
+U+20C00	𠰀	^⿰口⿻弓丨$(V)	^⿰口弔$(Z)
 U+20C01	𠰁	^⿰口丐$(V)
 U+20C02	𠰂	^⿰口元$(TV)
 U+20C03	𠰃	^⿰口壬$(V)
