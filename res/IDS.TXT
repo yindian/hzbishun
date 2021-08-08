@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-08-06
+# Date: 2021-08-08
 # Unicode Version: 13.0 (92,856 entries)
 #
 # NB Additions and changes for Unicode Version 14.0 (92,865 entries) have been added to the file as commented out lines
@@ -17507,7 +17507,7 @@ U+91CD	重	^⿳㇒車一$(GHJKTV)	^⿻𢆍二$(X)
 U+91CE	野	^⿰里予$(GHJKTV)
 U+91CF	量	^⿱旦里$(GHJKTV)
 U+91D0	釐	^⿸𠩺里$(GHJKTV)
-U+91D1	金	^⿻全丷$(GHJKTV)	^⿱𠆢⿱干䒑$(X)
+U+91D1	金	^⿱𠆢⿻王丷$(GHJKTV)
 U+91D2	釒	^釒$(G)
 U+91D3	釓	^⿰釒乚$(GHJKT)
 U+91D4	釔	^⿰釒乙$(GHJKT)
@@ -17518,7 +17518,7 @@ U+91D8	釘	^⿰釒丁$(GHJKTV)
 U+91D9	釙	^⿰釒卜$(GHJKT)
 U+91DA	釚	^⿰釒九$(GHJKT)
 U+91DB	釛	^⿰釒力$(GJKT)
-U+91DC	釜	^⿱父⿻王丷$(GHJKT)	^⿱父⿱干䒑$(X)
+U+91DC	釜	^⿱父⿻王丷$(GHJKT)
 U+91DD	針	^⿰釒十$(GHJKTV)
 U+91DE	釞	^⿰釒入$(GJKT)
 U+91DF	釟	^⿰釒八$(GHJTV)
@@ -41935,7 +41935,7 @@ U+2375C	𣝜	^⿰枲扁$(GT)
 U+2375D	𣝝	^⿱殻束$(GT)
 U+2375E	𣝞	^⿰束巢$(GT)
 U+2375F	𣝟	^⿱稳木$(G)
-U+23760	𣝠	^⿰木潔$(G)
+U+23760	𣝠	^⿰木㓗$(G)
 U+23761	𣝡	^⿰木養$(G)	*U+23761=U+237BC
 U+23762	𣝢	^⿰木⿱业美$(G)
 U+23763	𣝣	^⿳木罒⿰？寸$(J)	^⿳木罒𡬠$(Z)
