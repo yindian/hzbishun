@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-09-10
+# Date: 2021-09-14
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
@@ -136,8 +136,6 @@
 #	Where the glyph forms for two different characters are the same, a cross-reference is given in the form "U+xxxx=U+xxxx" if all regional forms of both characters are the same (e.g. U+5AB2=U+2180C). If only a particular regional form of the character is the same then the source identifier is put in parentheses (e.g. U+5098(V)=U+20302 or U+23CEB(T)=U+23D6D(G)).
 #	Where the glyph forms for two characters are identical or nearly identical, but are not cognate (i.e. deliberately not unified) then a cross-reference is given in the form "U+xxxx≠U+xxxx" (e.g. U+670C≠U+80A6). This mostly affects characters with meat radical (⺼) compared with moon radical (月) which are written identically for some regions.
 #	Where two characters are unifiable variants then a cross-reference is given in the form "U+xxxx≡U+xxxx" (e.g. U+6416≡U+6447). This affects some characters in the URO which were encoded due to the source separation rule, some characters in the CJK extensions which were accidentally not unified, and some characters for which a unification rule was defined at a later date.
-#
-# 11. The "BabelStone Han" font which covers many characters in Extensions C through G, is available for free download and use from https://www.babelstone.co.uk/Fonts/Han.html. This font also includes all characters outside of Ext. B that are used within IDS sequences in this file.
 #
 # CJK Unified Ideographs (20,976 characters)
 # Unicode version 1.0 additions (20,902 characters)
@@ -37086,7 +37084,7 @@ U+22474	𢑴	^⿳{41}⿰米糸大$(G)
 U+22475	𢑵	^⿰𢑑番$(GT)
 U+22476	𢑶	^⿰𢑑⿸广⿱内戊$(GT)	^⿰𢑑⿸广⿱內戊$(Z)
 U+22477	𢑷	^⿳彑⿱冖⿴囗𠂭⿱𰀪巾$(GT)
-U+22478	𢑸	^⿳高{42}𪤷$(GT)
+U+22478	𢑸	^⿳⿳亠口冖口⿱{42}𪤷$(G)	^⿱高⿱{42}𪤷$(T)
 U+22479	𢑹	^⿱彗亞$(GT)
 U+2247A	𢑺	^⿳？⿴囗𠂭⿱𰀪巾$(G)
 U+2247B	𢑻	^⿰𢑑⿸广⿱内成$(G)	^⿰𢑑⿸广⿱內成$(Z)
@@ -46818,7 +46816,7 @@ U+24A78	𤩸	^⿰𤣩葵$(H)
 U+24A79	𤩹	^⿱辟王$(H)
 U+24A7A	𤩺	^⿰玉義$(H)
 U+24A7B	𤩻	^⿰𤣩⿺辶⿸广年$(T)
-U+24A7C	𤩼	^⿰王遀$(T)
+U+24A7C	𤩼	^⿰𤣩遀$(T)
 U+24A7D	𤩽	^⿰𤣩献$(GTV)
 U+24A7E	𤩾	^⿰𤣩𤲢$(T)
 U+24A7F	𤩿	^⿰𤣩葱$(T)
@@ -46859,7 +46857,7 @@ U+24AA1	𤪡	^⿱⿰君君玉$(G)
 U+24AA2	𤪢	^⿰𤣩毄$(GT)
 U+24AA3	𤪣	^⿰𤣩𡏳$(GT)
 U+24AA4	𤪤	^⿰𤣩榮$(HT)
-U+24AA5	𤪥	^⿰王寧$(HT)
+U+24AA5	𤪥	^⿰𤣩寧$(HT)
 U+24AA6	𤪦	^⿰𤣩疑$(HT)
 U+24AA7	𤪧	^⿰𤣩鳳$(H)
 U+24AA8	𤪨	^⿰𤣩⿱⿲止白又文$(T)
@@ -58475,7 +58473,7 @@ U+27801	𧠁	^⿰西華$(T)
 U+27802	𧠂	^⿱襾⿸厂䚺$(GT)
 U+27803	𧠃	^⿱襾⿰彳⿳𠂉吕夊$(T)
 U+27804	𧠄	^⿱襾𩊐$(GT)
-U+27805	𧠅	^⿰⿱？復邑$(V)
+U+27805	𧠅	^⿰覆邑$(V)
 U+27806	𧠆	^⿱自儿$(GT)
 U+27807	𧠇	^⿱？儿$(GT)
 U+27808	𧠈	^⿱又見$(G)
@@ -72398,7 +72396,7 @@ U+2AE81	𪺁	^⿰火賣$(T)
 U+2AE82	𪺂	^⿱㯎火$(T)
 U+2AE83	𪺃	^⿰炮堂$(V)
 U+2AE84	𪺄	^⿰火𫨀$(T)
-U+2AE85	𪺅	^⿰火⿳𫲸罒心$(K)
+U+2AE85	𪺅	^⿰火憲$(K)
 U+2AE86	𪺆	^⿰火⿳爫罒郎$(T)
 U+2AE87	𪺇	^⿰火離$(V)
 U+2AE88	𪺈	^⿰火夒$(G)
