@@ -1,7 +1,7 @@
 ﻿# Ideographic Description Sequences (IDS) for CJK Unified Ideographs
 # URL: https://babelstone.co.uk/CJK/IDS.TXT
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
-# Date: 2021-09-27
+# Date: 2021-10-01
 # Unicode Version: 14.0 (92,865 entries)
 #
 # Notes
@@ -60458,7 +60458,7 @@ U+27FC2	𧿂	^⿰𧾷干$(GT)
 U+27FC3	𧿃	^⿸尸足$(GT)
 U+27FC4	𧿄	^⿰𧾷丌$(GT)
 U+27FC5	𧿅	^⿰𧾷卂$(GT)
-U+27FC6	𧿆	^⿰𧾷已$(GTV)
+U+27FC6	𧿆	^⿰𧾷巳$(GT)	^⿰𧾷已$(V)
 U+27FC7	𧿇	^⿰𧾷也$(G)
 U+27FC8	𧿈	^⿰𧾷广$(G)
 U+27FC9	𧿉	^⿰𧾷亏$(G)	^⿰𧾷亐$(T)
@@ -88355,7 +88355,7 @@ U+30109	𰄉	^⿰冲甬$(G)
 U+3010A	𰄊	^⿰冫習$(G)
 U+3010B	𰄋	^⿱冲東$(G)
 U+3010C	𰄌	^⿰冫腊$(G)
-U+3010D	𰄍	^⿰冫逹$(G)
+U+3010D	𰄍	^⿰冫達$(G)
 U+3010E	𰄎	^⿰净肖$(G)
 U+3010F	𰄏	^⿰冫魯$(G)
 U+30110	𰄐	^⿵𠘨侖$(G)
