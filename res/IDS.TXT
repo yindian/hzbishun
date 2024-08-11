@@ -4,7 +4,7 @@
 # Maintained by: Andrew West (魏安) <babelstone@gmail.com>
 # Unicode Version: 15.1 (September 2023)
 # Total entries: 97,680
-# File Date: 2024-06-30
+# File Date: 2024-08-11
 #
 # Caveat Lector
 #	Please be aware that IDS sequences do not describe absolute glyph forms, but describe glyph forms in the context of
@@ -26656,7 +26656,7 @@ U+48C7	䣇	^⿰求阝$(GT)
 U+48C8	䣈	^⿰邑邑$(GT)
 U+48C9	䣉	^⿱沙邑$(K)
 U+48CA	䣊	^⿰尚阝$(GT)	^⿰尙阝$(KP)
-U+48CB	䣋	^⿰采阝$(GT)
+U+48CB	䣋	^⿰釆阝$(G)	^⿰采阝$(T)
 U+48CC	䣌	^⿰底阝$(GT)
 U+48CD	䣍	^⿰奄阝$(GTP)
 U+48CE	䣎	^⿰甾阝$(GT)
@@ -32144,7 +32144,7 @@ U+21074	𡁴	^⿰口團$(G)
 U+21075	𡁵	^⿰口緊$(H)
 U+21076	𡁶	^⿰口截$(H)
 U+21077	𡁷	^⿲口豕⿱𱼀寸$(H)
-U+21078	𡁸	^⿰口𨻶$(H)
+U+21078	𡁸	^⿰口𨻶$(H)	^⿰口隙$(Z)
 U+21079	𡁹	^⿰口誘$(V)
 U+2107A	𡁺	^⿰口滾$(V)
 U+2107B	𡁻	^⿰口趙$(H)
@@ -56720,7 +56720,7 @@ U+27074	𧁴	^⿱艹劍$(V)
 U+27075	𧁵	^⿱艹撫$(V)
 U+27076	𧁶	^⿱艹⿸广⿱{68}𡉀$(V)	^⿱艹⿸厂⿱{68}𡉀$(UCS2003)	^⿱艹廛$(Z)	^⿱艹𠪨$(Z)	*U+27076(V) was ^⿱艹廛$ before Unicode 6.0
 U+27077	𧁷	^⿰苦庫$(V)
-U+27078	𧁸	^⿱艹彙$(V)
+U+27078	𧁸	^⿱艹⿳彑宀果$(V)	^⿱艹彙$(Z)
 U+27079	𧁹	^⿰庫苦$(V)
 U+2707A	𧁺	^⿱艹緘$(V)
 U+2707B	𧁻	^⿳艹㱕⿰𠂇十$(T)	^⿳艹㱕廾$(Z)
@@ -62101,7 +62101,7 @@ U+28579	𨕹	^⿺辶桓$(G)
 U+2857A	𨕺	^⿺辶𧥢$(G)
 U+2857B	𨕻	^⿺辶⿱日艮$(G)
 U+2857C	𨕼	^⿺辵⿰亻⿱火𠬞$(GT)
-U+2857D	𨕽	^⿺辵⿱入疌$(GT)
+U+2857D	𨕽	^⿺辵⿱入疌$(GT)	*U+2857D(T) was ^⿺辵⿱𠆢疌$ in Unicode 5.2
 U+2857E	𨕾	^⿺辶疾$(G)
 U+2857F	𨕿	^⿺辶⿰⿹弓土王$(G)
 U+28580	𨖀	^⿺辶⿳䶹一虫$(G)	^⿺辶蚩$(Z)
@@ -85455,7 +85455,7 @@ U+2E0DD	𮃝	^⿰禾般$(K)
 U+2E0DE	𮃞	^⿰禾⿱夂{16}$(S)
 U+2E0DF	𮃟	^⿰禾宰$(K)
 U+2E0E0	𮃠	^⿰禾冥$(K)
-U+2E0E1	𮃡	^⿰禾梁$(K)
+U+2E0E1	𮃡	^⿰禾鿄$(K)	^⿰禾梁$(Z)
 U+2E0E2	𮃢	^⿱秋𣅀$(J)
 U+2E0E3	𮃣	^⿰禾魚$(JK)
 U+2E0E4	𮃤	^⿰禾基$(K)
